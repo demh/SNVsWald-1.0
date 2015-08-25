@@ -7,6 +7,6 @@
 - Split Haplotype-Variants
 
 <p> Downstream Pipeline </p>
-- Mutational Signatures
-- SNV-BAF
-- Rainfalls
+- Mutational Signatures (downstream_functions.R)
+- SNV-BAF (downstream_functions.R)
+- Rainfalls (downstream_functions.R)
