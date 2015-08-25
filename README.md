@@ -4,7 +4,7 @@
 - Shorten Tumourfiles (SNVs_Prepare.R)
 - Intersecting (SNVs_Overlap.R)
 - Quality-Filtering (SNVs_Overlap.R)
-- Split Haplotype-Variants
+- Split Haplotype-Variants (SNVs_Splitting.R)
 
 <p> Downstream Pipeline </p>
 - Mutational Signatures (downstream_functions.R)
